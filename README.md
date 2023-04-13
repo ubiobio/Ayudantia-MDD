@@ -6,7 +6,7 @@ _Repositorio de las clases de ayudantia en la universidad_
 
 - Enseñar los fundamentos de la web.
 - Enseñar los fundamentos de la programacion en [JavaScript](./JavaScript/Fundamentos/Fundamentos.md) y [Node](./Node/Fundamentos.md).
-- Enseñar los fundamentos de Git.
+- Enseñar los fundamentos de [Git](./Git/Git.md).
 - Aplicar los conocimientos en un proyecto fullstack.
 
 ## Hola chicos y chicas de la ayudantia!
