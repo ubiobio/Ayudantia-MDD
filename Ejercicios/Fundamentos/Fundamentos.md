@@ -77,5 +77,6 @@ _[Documentacion en este repositorio](../../JavaScript/Fundamentos/VariablesYTipo
 #### Tips:
   - Recordar la diferencia entre `==` y `===`
 
+____
 
 - [Volver al indice](../Ejercicios.md)
