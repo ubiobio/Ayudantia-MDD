@@ -61,18 +61,19 @@ _[Documentacion en este repositorio](../../JavaScript/Fundamentos/VariablesYTipo
 
 - Dado los siguientes valores numericos:
   ```js
-    let numero1 = 10
-    const numero2 = 20
+    let numero1 = 13
+    const numero2 = 15
+    const numero3 = '13' 
     ```
     - Crear una variable nueva y asignarle el valor de numero1 o numero2 y mostrar por consola.
     - Mustre por consola si el numero1 es mayor que numero2.
     - Mustre por consola si el numero1 es mayor o igual que numero2.
     - Mustre por consola si el numero1 es menor o igual que numero2.
-    - Mustre por consola si el numero1 es menor que numero2.
-    - Mustre por consola si el numero1 es igual que numero2.
+    - Mustre por consola si el numero1 es menor que numero3.
+    - Mustre por consola si el numero1 es igual que numero3.
     - Mustre por consola si el numero1 es diferente que numero2.
-    - Mustre por consola si el numero1 es estrictamente igual que numero2.
-    - Mustre por consola si el numero1 es estrictamente diferente que numero2.
+    - Mustre por consola si el numero1 es estrictamente igual que numero3.
+    - Mustre por consola si el numero1 es estrictamente diferente que numero3.
 
 #### Tips:
   - Recordar la diferencia entre `==` y `===`
