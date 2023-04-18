@@ -12,12 +12,12 @@
 - Permite trabajar en equipo de manera colaborativa en la nube
 - Guarda repositorios públicos y privados
 
-## Que es un repositorio?
+## ¿Qué es un repositorio?
 
 - Es un directorio que contiene todos los archivos de un proyecto
 - Cada repositorio tiene un historial de cambios
 
-## Como funciona Git?
+## ¿Cómo funciona Git?
 
 - Git guarda el historial de cambios de un proyecto en un directorio llamado `.git`
 - Cada vez que se realiza un cambio en el proyecto, Git guarda una copia de los archivos en el directorio `.git`

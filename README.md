@@ -9,4 +9,6 @@ _Repositorio de las clases de ayudantia en la universidad_
 - Enseñar los fundamentos de [Git](./Git/Git.md).
 - Aplicar los conocimientos en un proyecto fullstack.
 
+## Guia de ejercicios
+
 ## Hola chicos y chicas de la ayudantia!
