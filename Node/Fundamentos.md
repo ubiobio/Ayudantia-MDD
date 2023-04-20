@@ -5,3 +5,6 @@
 -  [Modulos core](./ModulosCore/Core.md)
 -  [Manejo de Asincronia](./Asincronia/Asincronia.md)
 -  Manejo de errores
+
+____
+- [Volver al inicio](../README.md)
