@@ -78,7 +78,7 @@ _[Documentacion en este repositorio](../../JavaScript/Fundamentos/VariablesYTipo
   - Recordar la diferencia entre `==` y `===`
 
 ## Estructuras de control
-
+_[Documentacion en este repositorio](../../JavaScript/Fundamentos/EstructurasDeControl/estructurasDeControl.md)_
 #### Ejercicios 4 ( Condicionales )
 
 - Dado los siguientes valores numericos:
