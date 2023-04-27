@@ -118,7 +118,35 @@ _[Documentacion en este repositorio](../../JavaScript/Fundamentos/VariablesYTipo
       console.log('numero1 es igual que numero2')
     }
     ```
+
+#### Ejercicios 5 ( Ciclos )
+
+- Dado los siguientes valores numericos:
+
+    - Imprimir en consola los numeros del 1 al 10.
+    - Imprimir en consola los numeros del 10 al 1.
+    - Imprimir en consola los numeros del 1 al 10 pero solo los pares.
+    - Imprimir en consola los numeros del 1 al 10 pero solo los impares.
+    - Imprimir en consola los numeros del 1 al 10 pero solo los multiplos de 3.
+    - Imprimir en consola los numeros del 1 al 10 pero solo los multiplos de 5.
+    - Imprimir en consola los numeros del 1 al 10 pero solo los multiplos de 3 y 5.
+    - Imprimir en consola los numeros del 1 al 10 pero solo los multiplos de 3 o 5.
+
+#### Tips:
+
+- Usar el for como en el siguiente ejemplo:
+  ```js
+  for (let i = 0; i < 10; i++) {
+    console.log(i)
+  }
+  // En consola:
+    // 0
+    // 1
+    // 2
+    // ...
+    // 9
   
+  ```
 ____
 
 - [Volver al indice](../Ejercicios.md)
