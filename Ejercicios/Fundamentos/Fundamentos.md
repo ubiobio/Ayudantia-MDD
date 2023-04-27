@@ -77,6 +77,48 @@ _[Documentacion en este repositorio](../../JavaScript/Fundamentos/VariablesYTipo
 #### Tips:
   - Recordar la diferencia entre `==` y `===`
 
+#### Ejercicios 4 ( Estructuras de control )
+
+- Dado los siguientes valores numericos:
+  ```js
+    const numero1 = 10
+    const numero2 = 20
+    const numero3 = 30
+    ```
+    - Imprimir en consola el número mayor de los tres.
+    - Imprimir en consola el número menor de los tres.
+    - Imprimir en consola si el numero1 es par o impar.
+    - Imprimir en consola si el numero2 es par o impar.
+    - Imprimir en consola si el numero3 es par o impar.
+    - Imprimir en consola si el numero1 es multiplo de 5.
+    - Imprimir en consola si el numero2 es multiplo de 5.
+    - Imprimir en consola si el numero3 es multiplo de 5.
+
+#### Tips:
+
+  - Usar el if como en el siguiente ejemplo:
+    ```js
+    const numero1 = 30
+    const numero2 = 20
+    
+    if (numero1 > numero2) {
+      console.log('numero1 es mayor que numero2')
+    }
+    ```
+  - Tambien se pueden encadenar if, else if y else:
+    ```js
+    const numero1 = 30
+    const numero2 = 20
+    
+    if (numero1 > numero2) {
+      console.log('numero1 es mayor que numero2')
+    } else if (numero1 < numero2) {
+      console.log('numero1 es menor que numero2')
+    } else {
+      console.log('numero1 es igual que numero2')
+    }
+    ```
+  
 ____
 
 - [Volver al indice](../Ejercicios.md)
