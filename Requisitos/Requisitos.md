@@ -23,7 +23,7 @@
   - Almacene los datos en memoria (no es necesario utilizar una base de datos).
   - No es necesario implementar la interfaz de usuario
 
-# [Codigo de la clase](./guia/)
+# [Codigo de la clase](./guia)
 
 
 ___
