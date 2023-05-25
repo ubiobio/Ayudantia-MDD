@@ -46,7 +46,7 @@
 ## Comandos: ( Revisar la imagen de arriba )
 
 - Comandos basicos:
-  - `git init`: Inicializa un repositorio en el directorio actual
+  - `git init`: Inicializa un repositorio en el directorio actual ( Solo la primera vez que se inicia el proyecto)
   - `git status`: Muestra el estado actual del repositorio
   - `git add`: Agrega archivos al área de preparación ( memoria temporal )
   - `git commit`: Guarda los cambios en el repositorio
