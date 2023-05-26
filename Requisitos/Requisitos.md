@@ -25,6 +25,6 @@
 
 # [Codigo de la clase](./guia)
 
-
+![img.png](img.png)
 ___
 - [Volver atras](../README.md)
