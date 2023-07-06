@@ -12,5 +12,6 @@ _Repositorio de las clases de ayudantia en la universidad_
 ## [Guia de instalacion](./Instalacion/Instalacion.md)
 ## [Guia de ejercicios](./Ejercicios/Ejercicios.md)
 ## [Guia de requisitos a codigo](./Requisitos/Requisitos.md)
+## [Guia de MongoDB Altlas](./mongodb/Mongo.md)
 
 ## Hola chicos y chicas de la ayudantia!
