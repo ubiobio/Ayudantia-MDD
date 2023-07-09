@@ -13,5 +13,7 @@ _Repositorio de las clases de ayudantia en la universidad_
 ## [Guia de ejercicios](./Ejercicios/Ejercicios.md)
 ## [Guia de requisitos a codigo](./Requisitos/Requisitos.md)
 ## [Guia de MongoDB Altlas](./mongodb/Mongo.md)
+## [Guia de Frontend](./Frontend/Frontend.md)
+## [Ejemplo clase N°8](./EjemploFullStack)
 
 ## Hola chicos y chicas de la ayudantia!
