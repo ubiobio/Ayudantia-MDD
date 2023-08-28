@@ -24,21 +24,32 @@
 - Cada copia se le conoce como `commit`
 - Cada `commit` tiene un identificador único llamado `hash`, nombre del autor, fecha y hora del cambio
 - Cada `commit` tiene un mensaje asociado que describe los cambios realizados
-    - Ejemplo: `git commit -m "Agrega el archivo index.html"`
-    - Si mostramos el commit con `git log --oneline` veremos algo como esto:
-        - ejemplo del log: `av75s9a Agrega el archivo index.html`
+  - Ejemplo: `git commit -m "Agrega el archivo index.html"`
+  - Si mostramos el commit con `git log --oneline` veremos algo como esto:
+    - ejemplo del log: `av75s9a Agrega el archivo index.html`
 - Pero, antes de guardar un `commit` en el directorio `.git`, Git lo guarda en el área de preparación ( memoria temporal )
 - El área de preparación es un directorio que contiene los archivos que se van a guardar en el próximo `commit`
-- Para guardar los cambios en el próximo `commit` debemos ejecutar el comando `git commit` ( como el flujo de la imagen de abajo )
+- Para guardar los cambios en el "área de preparación" debemos ejecutar el comando `git add` ( como el flujo de la imagen de abajo )
+  - Con el comando `git add .` agregamos todos los archivos del directorio actual al área de preparación
+  - Con el comando `git add <nombre del archivo>` agregamos un archivo específico al área de preparación
+  - Con el comando `git add <nombre del directorio>` agregamos todos los archivos de un directorio específico al área de preparación
 
-- Para trabajar en equipo, cada persona debe tener su propia copia del repositorio
-- Para sincronizar los cambios entre los repositorios, debemos ejecutar el comando `git push` para subir los cambios al repositorio remoto
-- Para descargar los cambios de un repositorio remoto, debemos ejecutar el comando `git pull`
+- Entonces un resumen y ejemplo de los comandos sería:
+  - `git add .`: Agrega todos los archivos del directorio actual al área de preparación
+  - `git commit -m "<mensaje>"`: Guarda los cambios en el repositorio
+  - `git log --oneline`: Muestra el historial de cambios del repositorio
 
-- Pero, para tener una copia del repositorio remoto, debemos clonarlo: 
-    - Para clonar un repositorio remoto, debemos ejecutar el comando `git clone <url del repositorio remoto>`
-    - Ejemplo: `git clone https://github.com/UBB-IECI/Ayudantia-MDD-2023-1.git`
+## ¿Cómo funciona GitHub?
+
+- Para trabajar en equipo, cada persona debe tener su propia copia del repositorio, entonces:
+  - Para clonar un repositorio remoto, debemos ejecutar el comando `git clone <url del repositorio remoto>`
+    - Ejemplo: `git clone https://github.com/ubiobio/Ayudantia-MDD-2023-1`
     - Esto creará una copia del repositorio en el directorio actual
+- Para sincronizar los cambios entre los repositorios, debemos ejecutar el comando `git push` para **subir los cambios al repositorio** remoto
+- Para **descargar** los cambios de un repositorio remoto, debemos ejecutar el comando `git pull`
+
+
+
 
 ![img_1.png](img_1.png)
 
@@ -51,13 +62,13 @@
   - `git add`: Agrega archivos al área de preparación ( memoria temporal )
   - `git commit`: Guarda los cambios en el repositorio
   - `git log`: Muestra el historial de cambios del repositorio
-  - `git diff`: Muestra las diferencias entre los archivos del repositorio y el área de preparación ( memoria temporal )
+  - `git diff`: Muestra las diferencias entre los archivos del repositorio y el área de preparación ( memoria temporal ) o entre commits
 
 
 
 
 
 
+____
 
-
-- [Volver atras](../README.md)
+- [Volver atras](../../README.md)
