@@ -2,11 +2,11 @@
 
 _Repositorio de las clases de ayudantia en la universidad_
 
-- Clase 1 - Introducción a la ayudantía y Notion
-- Clase 2 - Contenido por definir.
-- Clase 3 - Contenido por definir.
-- Clase 4 - Contenido por definir.
-- Clase 5 - Contenido por definir.
+- Clase 1 - Introducción a Git, comandos en la terminal y Hola Mundo en JavaScript.
+- Clase 2 - Introducción a JavaScript y fundamentos de Git.
+- Clase 3 - Teoria JavaScript y Ejercicios.
+- Clase 4 - Introducción a Postman y CRUD sin base de datos.
+- Clase 5 - CRUD con base de datos.
 - Clase 6 - Contenido por definir.
 - Clase 7 - Contenido por definir.
 - Clase 8 - Contenido por definir.
