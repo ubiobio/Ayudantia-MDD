@@ -1,4 +1,4 @@
-> ![IMPORTANT]
+> [!IMPORTANT]
 > Puede que Github se demore en proporcionarte el pack de estudiantes, por lo que te recomendamos que estés atento a tu correo electrónico para recibir la confirmación de tu solicitud.
 
 
