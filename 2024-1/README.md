@@ -5,8 +5,8 @@ _Repositorio de las clases de ayudantia en la universidad_
 - [Clase 1 - Introducción a Git, comandos en la terminal y Hola Mundo en JavaScript.](./Ayudantia-clase-1/)
 - [Clase 2 - Introducción a JavaScript y fundamentos de Git.](./Ayudantia-clase-2/)
 - [Clase 3 - Seguimos estudiando JavaScript.](./Ayudantia-clase-3/)
-- Clase 4 - Introducción a Postman y CRUD sin base de datos.
-- Clase 5 - CRUD con base de datos.
+- Clase 4 - Repaso JavaScript
+- Clase 5 - Server básico con ExpressJS y algunas caracteristicas de ExpressJS.
 - Clase 6 - Contenido por definir.
 - Clase 7 - Contenido por definir.
 - Clase 8 - Contenido por definir.
