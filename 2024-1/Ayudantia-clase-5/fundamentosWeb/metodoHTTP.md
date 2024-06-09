@@ -21,4 +21,4 @@ Es importante tener en cuenta que cada método tiene su propio propósito y rest
 
 ### Métodos HTTP
 
-![metodos-http.png](../images/Metodos%20HTTP.png)
+![metodos-http.png](../images/metodos.png)
